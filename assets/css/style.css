@@ -1,0 +1,30 @@
+
+#wrapper {
+    width: 100%;
+    background:#202020;
+}
+
+
+.navbar-default {
+
+border:0px solid black;
+position:fixed;			/* out of document and take no position */
+height: 120px;
+width: 100%;
+z-index: 100;
+     
+}
+
+.content {
+    padding-top: 120px; /* This should be equal to the height of your header(nav-bar) */
+}
+
+/*.navbar-cls-top {
+	color: #fff;
+background: #C90000;
+width: 260px;
+text-align: center;
+height: 60px;
+font-size: 30px;
+font-weight: 700;
+}*/
